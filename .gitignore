@@ -1,0 +1,8 @@
+# Folders
+.idea
+vendor
+
+# Files
+.env
+composer.lock
+app/Controllers/Tests.php
